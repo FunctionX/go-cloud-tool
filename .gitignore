@@ -1,0 +1,25 @@
+.DS_Store
+.vscode
+.idea
+
+build
+*.log
+go.sum
+package-lock.json
+node_modules
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
